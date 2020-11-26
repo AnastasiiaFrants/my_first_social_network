@@ -1,0 +1,10 @@
+
+.aside{
+  grid-area: b;
+  height: 500px;
+  padding: 50px;
+  background-color: #9370db;
+}
+.aside div{
+  padding: 20px;
+}
